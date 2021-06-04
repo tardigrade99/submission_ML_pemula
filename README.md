@@ -1,6 +1,6 @@
 # submission_ML_pemula
 
-https://www.dicoding.com/certificates/1OP8D301LPQK
+https://www.dicoding.com/academies/184/tutorials/8547
 
 # Proyek Akhir : Klasifikasi Gambar
 Kriteria Submission
